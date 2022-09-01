@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/ts/Downloads/SMART HOME SURVEILLANCE SYSTEM/env/bin/python3" "$0" "$@"
-' '''
+#!/home/ts/Documents/Face-detection-App/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

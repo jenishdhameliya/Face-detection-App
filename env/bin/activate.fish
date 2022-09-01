@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/ts/Downloads/SMART HOME SURVEILLANCE SYSTEM/env"
+set -gx VIRTUAL_ENV "/home/ts/Documents/Face-detection-App/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
